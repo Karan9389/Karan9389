@@ -9,10 +9,10 @@ A dedicated Software Engineering undergraduate with a strong foundation in data 
 * **Problem Solving:** Solved 600+ Data Structures & Algorithms problems (LeetCode, Codeforces, GeeksforGeeks).
 
 ### Technical Expertise
-* **Languages:** C++, JavaScript, HTML/CSS
+* **Languages:** C++, JavaScript, HTML/CSS, JAVA
 * **Frameworks & Libraries:** React.js, Node.js, Express.js
 * **Databases & Tools:** MongoDB, Git, GitHub, Netlify, WebSockets
-* **Currently Learning:** Spring Boot, Next.js, React Native
+* **Currently Learning:** DevOps, Next.js, React Native
 
 ### Featured Projects
 * **CityBus Go:** Engineered a real-time transit platform utilizing the MERN stack and WebSockets for live tracking and seamless data synchronization.
@@ -29,6 +29,7 @@ A dedicated Software Engineering undergraduate with a strong foundation in data 
   * Qualifier participant in **The Big Code Challenge** (Google India).
  
 ### Contact Information
+* **Email:** (#) *(karan.kumar2023@glbajajgroup.org)
 * **LinkedIn:** (#) *(https://www.linkedin.com/in/karan-kumar-4b865a297/)*
 * **EventEase:** (#) *(https://brilliant-sfogliatella-d7d141.netlify.app/)*
 ---
