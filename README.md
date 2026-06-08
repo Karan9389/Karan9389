@@ -1,4 +1,4 @@
-# Karan Kumar Mathur
+# Karan Kumar
 **Computer Science & Engineering | Full-Stack Developer | Competitive Programmer**
 
 A dedicated Software Engineering undergraduate with a strong foundation in data structures, algorithms, and full-stack web development. I specialize in the MERN stack and have a proven track record of solving complex problems, from building real-time scalable applications to optimizing algorithmic efficiency. 
