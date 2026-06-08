@@ -3,11 +3,6 @@
 
 A dedicated Software Engineering undergraduate with a strong foundation in data structures, algorithms, and full-stack web development. I specialize in the MERN stack and have a proven track record of solving complex problems, from building real-time scalable applications to optimizing algorithmic efficiency. 
 
-### Profile Summary
-* **Background:** B.Tech in Computer Science and Engineering.
-* **Milestones:** GATE 2026 Qualified.
-* **Problem Solving:** Solved 600+ Data Structures & Algorithms problems (LeetCode, Codeforces, GeeksforGeeks).
-
 ### Technical Expertise
 * **Languages:** C++, JavaScript, HTML/CSS, JAVA
 * **Frameworks & Libraries:** React.js, Node.js, Express.js
@@ -17,7 +12,6 @@ A dedicated Software Engineering undergraduate with a strong foundation in data 
 ### Featured Projects
 * **CityBus Go:** Engineered a real-time transit platform utilizing the MERN stack and WebSockets for live tracking and seamless data synchronization.
 * **EVENT-EASE:** Developed and deployed a robust full-stack web application for comprehensive event management.
-
 ---
 
 ### 🏆 Achievements & Competitive Programming
