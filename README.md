@@ -4,7 +4,7 @@
 A dedicated Software Engineering undergraduate with a strong foundation in data structures, algorithms, and full-stack web development. I specialize in the MERN stack and have a proven track record of solving complex problems, from building real-time scalable applications to optimizing algorithmic efficiency. 
 
 ### Technical Expertise
-* **Languages:** C++, JavaScript, HTML/CSS, JAVA
+* **Languages:** C/C++, JavaScript, HTML/CSS, JAVA
 * **Frameworks & Libraries:** React.js, Node.js, Express.js
 * **Databases & Tools:** MongoDB, Git, GitHub, Netlify, WebSockets
 * **Currently Learning:** DevOps, Next.js, React Native
